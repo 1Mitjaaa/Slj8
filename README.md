@@ -2,7 +2,7 @@
 
 # LITERARNE ZVRSTI IN VRSTE
 
-POEZIJA :   literarno ustvarjanje, katerega izrazna oblika je pesem, pesništvo: brati, pisati poezijo; zgodovina poezije; poezija in proza
+**POEZIJA** :   literarno ustvarjanje, katerega izrazna oblika je pesem, pesništvo: brati, pisati poezijo; zgodovina poezije; poezija in proza
 PROZA : literarno ustvarjanje, katerega izrazna oblika so pravljice..
 DRAMATIKA : literarno ustvarjanje, katerega rezultat je drama
 LIRIKA: literarno ustvarjanje, katerega izrazna oblika je lirska pesem: lirika, epika, dramatika / ta pesem je čista lirika ki izraža le čustva
