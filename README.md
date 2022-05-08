@@ -1,9 +1,8 @@
-```dif
-Rešitve sta napisala :
 
-@ Mitjak 
-@ Jancis 
-```
+#### Rešitve sta napisala :
+- Mitjak 
+- Jancis 
+
 # Rešitve kriterija za usno ocenjevanje pri slj 
 
 ## LITERARNE ZVRSTI IN VRSTE
