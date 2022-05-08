@@ -2,6 +2,10 @@
 #### Rešitve sta napisala :
 - Mitjak 
 - Jancis 
+```diff
+@@ V primero če je kaj narobe napišite Mitjako. @@
+```
+
 
 # Rešitve kriterija za usno ocenjevanje pri slj 
 
