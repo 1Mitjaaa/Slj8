@@ -3,21 +3,21 @@
 # LITERARNE ZVRSTI IN VRSTE
 
 **POEZIJA** :   literarno ustvarjanje, katerega izrazna oblika je pesem, pesništvo: brati, pisati poezijo; zgodovina poezije; poezija in proza
-PROZA : literarno ustvarjanje, katerega izrazna oblika so pravljice..
-DRAMATIKA : literarno ustvarjanje, katerega rezultat je drama
-LIRIKA: literarno ustvarjanje, katerega izrazna oblika je lirska pesem: lirika, epika, dramatika / ta pesem je čista lirika ki izraža le čustva
-EPIKA : literarno ustvarjanje, katerega izrazna oblika je zlasti roman
-LIRSKA PESEM : Lirska ali osebno:izpovedna pesem je pesem, v kateri pesnik izraža svoja čustva, svoje misli, svoje mnenje
-EPSKA PESEM : Pripovedna pesem
-PODOBA/SLIKA ???? : PODOBA: predstavitev česa resničnega ali domišljijskega 
-ROMAN/KRONIKA: Je daljše pripovedno delo, navadno razčlenjeno na poglavja.
-BALADA: je lirsko-epsko-dramska pesem, ki prikazuje tragično usodo posameznika
-ROMANCA: lirsko-epska pesem navadno z vedro ljubezensko vsebino
-Wiki Romanca je epsko-lirska pesem, ki se dogaja v srednjem veku in pripoveduje o junaštvih vitezov, o dogajanju na gradu, o lepoti viteških žena ... Konec je po navadi pomirljiv.
-EP: je najobsežnejša pripovedna pesnitev
-SONET: je stalna pesniška oblika.
-DRAMA: literarno delo v obliki dialogov
-KOMEDIJA: je dramska vrsta, ki smeši človeške nepopolnosti, slabosti in napake.
+**PROZA** : literarno ustvarjanje, katerega izrazna oblika so pravljice..
+**DRAMATIKA** : literarno ustvarjanje, katerega rezultat je drama
+**LIRIKA**: literarno ustvarjanje, katerega izrazna oblika je lirska pesem: lirika, epika, dramatika / ta pesem je čista lirika ki izraža le čustva
+**EPIKA** : literarno ustvarjanje, katerega izrazna oblika je zlasti roman
+**LIRSKA PESEM** : Lirska ali osebno:izpovedna pesem je pesem, v kateri pesnik izraža svoja čustva, svoje misli, svoje mnenje
+**EPSKA PESEM** : Pripovedna pesem
+**PODOBA/SLIKA** ???? : PODOBA: predstavitev česa resničnega ali domišljijskega 
+**ROMAN/KRONIKA**: Je daljše pripovedno delo, navadno razčlenjeno na poglavja.
+**BALADA**: je lirsko-epsko-dramska pesem, ki prikazuje tragično usodo posameznika
+**ROMANCA**: lirsko-epska pesem navadno z vedro ljubezensko vsebino
+**Wiki Romanca** je epsko-lirska pesem, ki se dogaja v srednjem veku in pripoveduje o junaštvih vitezov, o dogajanju na gradu, o lepoti viteških žena ... Konec je po navadi pomirljiv.
+**EP**: je najobsežnejša pripovedna pesnitev
+**SONET**: je stalna pesniška oblika.
+**DRAMA**: literarno delo v obliki dialogov
+**KOMEDIJA**: je dramska vrsta, ki smeši človeške nepopolnosti, slabosti in napake.
 
 
 
